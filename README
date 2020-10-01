@@ -14,7 +14,7 @@ Requirements
   * RubyGems
   * ActiveMerchant
 
-Setup - Follow step by step for completion
+Setup - Follow step by step 
 -----
 
 Copy gateway.yml.example to gateway.yml and fill in the fields in that file.
